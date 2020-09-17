@@ -41,7 +41,7 @@ Now let's make these variables useful by writing some functions!
 
 * Create a function named  `double` and have it double the value of `x`.
 * Create a function named  `triple` and have it triple the value of `y`.
-* Create a function named  `square` and have it square the value of `squareTheNumber`.
+* Create a function named  `square` and have it square the value of `z`.
 * Create a function named  `beNice` and have it change the value of greeting to the string 'hello' plus your name using the value of the variable `firstName`. You can include other characters if you wish to make it look like a nice sentence.
 * Create a function named  `changeName` and have it change the value of `firstName` to the string 'Danger'.
 * Create a function named  `hangUp` and have it change the value of `callStatus` to the string 'call ended'.
